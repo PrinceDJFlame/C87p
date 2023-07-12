@@ -33,36 +33,36 @@ console.log(keyPressed);
 
 	if(keyPressed == '82') // add appropriate keycode
 	{
-		new_image('rr1.png');
+		new_image('redranger.jfif');
 		console.log("r");
 		// upload red ranger
 	}
 	if(keyPressed == '71')
 	{
-		block_x = 200;
-		new_image('gr.png');
+		block_x = 250;
+		new_image('greenranger.jfif');
 		console.log("g");
 		// upload green ranger
 	}
 	
 	if(keyPressed == '89')
 	{
-		block_x =350;
-		new_image('yr.png');
+		block_x =450;
+		new_image('yellowranger.jfif');
 		console.log("y");
 		// upload yellow ranger
 	}
 	if(keyPressed == '80')
 	{
-		block_x = 600;
-		new_image('pr.png');
+		block_x = 750;
+		new_image('pinkranger.jfif');
 		console.log("p");
 		// upload pink ranger
 	}
 	if(keyPressed == '66')
 	{
-		block_x = 700;
-		new_image('br.png');
+		block_x = 900;
+		new_image('blueranger.jfif');
 		console.log("b");
 	// upload blue ranger
 	}
